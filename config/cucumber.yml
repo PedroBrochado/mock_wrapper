@@ -1,0 +1,2 @@
+minimal: -f progress -f rerun -o rerun.txt
+complete: -f html -o index.html -f pretty 

@@ -1,0 +1,6 @@
+verbose: false
+debug: false
+configdir: ./templates
+offline: false
+quiet: false
+root:
